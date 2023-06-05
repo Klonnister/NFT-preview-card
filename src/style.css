@@ -1,0 +1,70 @@
+/* General styling */
+:root {
+    --Soft-blue: hsl(215, 51%, 70%);
+    --Cyan: hsl(178, 100%, 50%);
+    --background-blue: hsl(217, 54%, 11%);
+    --card-blue: hsl(216, 50%, 16%);
+    --line-blue: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-blue);
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Card style */
+.card {
+    background-color: var(--card-blue);
+    width: 18em;
+    padding: 1.5em;
+    border-radius: 1em;
+}
+
+.img-container {
+    width: 100%;
+    height: auto;
+    border-radius: 0.60em;
+    overflow: hidden;
+}
+
+
+
+.img {
+    max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
