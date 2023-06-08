@@ -60,4 +60,4 @@ Learned how to use the property inset in css to center the image:
 ## Author
 
 - Frontend Mentor - [Klonnister](https://www.frontendmentor.io/profile/Klonnister)
-- Twitter - [dennis_herrera_f](https://www.instagram.com/dennis_herrera_f/)
+- Instagram - [dennis_herrera_f](https://www.instagram.com/dennis_herrera_f/)
